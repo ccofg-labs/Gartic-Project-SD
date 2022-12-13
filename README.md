@@ -51,11 +51,3 @@ Depois basta acessar http://localhost:3000/ no navegador.
 -Socket.io
 
 
-## 👤Autor
-Eduardo Tomacheski
-
-
-Github: [@Eduardo Tomacheski](https://github.com/ETomacheski) 
-
-
-LinkedIn: [@Eduardo Tomacheski](https://www.linkedin.com/in/eduardo-tomacheski-a86b1617a/) 
